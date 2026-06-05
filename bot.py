@@ -6,8 +6,7 @@ import torch
 import torchvision.transforms as transforms
 import io
 
-# Replace 'YOUR_TOKEN_HERE' with your actual bot token
-TOKEN = '8967799775:AAFfyH8BTIKJOImqtUPsi83e1Fns-49D7nE'
+# Replace 'YOUR_TOKEN_HERE' with your actual 
 
 # Define the start command handler
 def start(update: Update, context: CallbackContext) -> None:
